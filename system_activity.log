@@ -1,0 +1,8 @@
+2026-05-21 20:00:57,713 - INFO - Application Started.
+2026-05-21 20:01:22,814 - INFO - Login attempt by username: 'Dr Vidhi'
+2026-05-21 20:01:22,930 - INFO - Main dashboard opened by user: Dr Vidhi
+2026-05-21 20:01:26,684 - INFO - AI Model (ai_medical_model.pkl) loaded successfully.
+2026-05-21 20:02:00,809 - INFO - Running prediction with inputs: Rad:11.0, Tex:10.0, Perim:52.63, Area:12.5, Smooth:112.0
+2026-05-21 20:02:00,851 - INFO - Created new patient_history.csv database file.
+2026-05-21 20:02:00,852 - INFO - New patient prediction saved to database by Dr Vidhi.
+2026-05-21 20:02:10,836 - INFO - Styled PDF Medical Report generated and downloaded by user.
